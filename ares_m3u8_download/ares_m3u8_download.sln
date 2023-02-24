@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ares_m3u8_download", "ares_m3u8_download.csproj", "{4DEA012C-17F7-4F05-8A72-45CF74FA2C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEA012C-17F7-4F05-8A72-45CF74FA2C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEA012C-17F7-4F05-8A72-45CF74FA2C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEA012C-17F7-4F05-8A72-45CF74FA2C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEA012C-17F7-4F05-8A72-45CF74FA2C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BCCBCED-BBBE-41BD-BD70-90816609EA05}
+	EndGlobalSection
+EndGlobal
